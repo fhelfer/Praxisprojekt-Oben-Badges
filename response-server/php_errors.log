@@ -1,0 +1,2 @@
+[01-Oct-2021 14:26:29 Europe/Berlin] Xdebug: [Step Debug] Could not connect to debugging client. Tried: 127.0.0.1:9000 (from REMOTE_ADDR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[01-Oct-2021 15:37:25 Europe/Berlin] Xdebug: [Step Debug] Could not connect to debugging client. Tried: 127.0.0.1:9000 (from REMOTE_ADDR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
