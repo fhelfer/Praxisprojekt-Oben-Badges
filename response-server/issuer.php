@@ -8,4 +8,4 @@ echo '{
     "email":"fhelfer@databay.de",
     "description":"Example Description",
     "image":"http://helferfa.bplaced.net/Uni/Praxisprojekt/assets/issuer_logo.png"
-    }';
+}';

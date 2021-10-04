@@ -1,6 +1,6 @@
 {
   "type": "Assertion",
-  "id": "https://api.eu.badgr.io/public/assertions/zaogYzLMTEOEhVjkinUzgw",
+  "id": "http://helferfa.bplaced.net/Uni/Praxisprojekt/index.php",
   "@context": "https://w3id.org/openbadges/v2",
   "recipient": {
     "type": "email",
@@ -8,10 +8,10 @@
     "hashed": true,
     "identity": "sha256$47cf7170aac227be7998dc0e11d9fde13dcfe69aadb7dd11220e838c1e0bff91"
   },
-  "badge": "https://api.eu.badgr.io/public/badges/jyp0S8PPQF-tr8l4rDB7FA",
+  "badge": "http://helferfa.bplaced.net/Uni/Praxisprojekt/badge.php",
   "issuedOn": "2021-09-12T22:00:00Z",
   "image": {
-    "id": "https://api.eu.badgr.io/public/assertions/zaogYzLMTEOEhVjkinUzgw/image"
+    "id": "http://helferfa.bplaced.net/Uni/Praxisprojekt/assets/badge_image.png"
   },
   "narrative": "You won!",
   "revoked": false,

@@ -1,7 +1,7 @@
 <?php
 echo '
-{"
-    @context":"https://w3id.org/openbadges/v2",
+{
+    "@context":"https://w3id.org/openbadges/v2",
     "type":"Assertion",
     "id":"http://helferfa.bplaced.net/Uni/Praxisprojekt/index.php",
     "badge":"http://helferfa.bplaced.net/Uni/Praxisprojekt/badge.php",
