@@ -5,7 +5,7 @@ echo '
     "type":"Assertion",
     "id":"http://helferfa.bplaced.net/Uni/Praxisprojekt/index.php",
     "badge":"http://helferfa.bplaced.net/Uni/Praxisprojekt/badge.php",
-    "image":"http://helferfa.bplaced.net/Uni/Praxisprojekt/badge_img.php",
+    "image":"http://helferfa.bplaced.net/Uni/Praxisprojekt/badge_img.png",
     "verification":{"type":"HostedBadge"},
     "narrative":"You won!",
     "issuedOn":"2021-09-12T22:00:00+00:00",
