@@ -1,0 +1,26 @@
+{
+  "type": "Assertion",
+  "id": "https://api.eu.badgr.io/public/assertions/zaogYzLMTEOEhVjkinUzgw",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "L8bhBE4W3nwjlWAA",
+    "hashed": true,
+    "identity": "sha256$47cf7170aac227be7998dc0e11d9fde13dcfe69aadb7dd11220e838c1e0bff91"
+  },
+  "badge": "https://api.eu.badgr.io/public/badges/jyp0S8PPQF-tr8l4rDB7FA",
+  "issuedOn": "2021-09-12T22:00:00Z",
+  "image": {
+    "id": "https://api.eu.badgr.io/public/assertions/zaogYzLMTEOEhVjkinUzgw/image"
+  },
+  "narrative": "You won!",
+  "revoked": false,
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Fabian"
+  }
+}

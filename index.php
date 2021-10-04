@@ -9,6 +9,7 @@
     <!-- UIkit JS -->
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.7.4/dist/js/uikit.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.7.4/dist/js/uikit-icons.min.js"></script>
+    <script src="issuer.js"></script>
 </head>
 <body style="border-color: black !important;">
 <div class="uk-card-default uk-card-hover uk-width-1-2@m">
@@ -56,6 +57,8 @@
         </div>
     </div>
     <div class="uk-card-body">
+        <img src='assets/example.png' onclick="OpenBadges.issue(['assets/example.json'], function(errors, successes) {
+})">
 </body>
 <?php
 $ch = curl_init("https://api.eu.badgr.io/public/badges/jyp0S8PPQF-tr8l4rDB7FA");
@@ -114,6 +117,7 @@ if(isset($_FILES['test'])) {
 
     $file = './assets/example.png';
     if (file_exists($file)) {
+        echo "<img src='assets/example.png'>";
         header('Content-Description: File Transfer');
         header('Content-Type: application/octet-stream');
         header('Content-Disposition: attachment; filename='.basename($file));
