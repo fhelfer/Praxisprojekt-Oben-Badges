@@ -6,7 +6,7 @@ echo '{
         "name":"Badge 1",
         "description":"Badge Description",
         "issuer":"http://helferfa.bplaced.net/Uni/Praxisprojekt/issuer.php",
-        "image":"http://helferfa.bplaced.net/Uni/Praxisprojekt/assets/badge_image.png",
+        "image":"http://helferfa.bplaced.net/Uni/Praxisprojekt/assets/badge_img.png",
         "criteria":{"narrative":"Kriterien"},
         "alignment":[],
         "tags":[]
